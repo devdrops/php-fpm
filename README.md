@@ -1,6 +1,6 @@
 # Docker/PHP-FPM
 
-A Docker for both PHP && Composer.
+A Docker image for both PHP && Composer.
 
 ## Features
 
